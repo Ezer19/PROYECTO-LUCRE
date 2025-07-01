@@ -4,29 +4,29 @@ import Card from '../ui/Card';
 const Equipo = () => {
   const teamMembers = [
     {
-      name: "Jesús Aaron Condo Morales",
-      role: "Coordinador de Proyecto",
-      bio: "Ingeniero eléctrico con especialización en energías renovables. Coordina las instalaciones y el mantenimiento de los sistemas solares."
+      name: "Flor Paloma Valderrama Quispe",
+      role: "Coordinadora del Proyecto",
+      bio: "estudiante de derecho."
     },
     {
       name: "Ezer Benito Zuniga Chura",
-      role: "Especialista en Energía",
-      bio: "Experto en sistemas fotovoltaicos. Diseña las soluciones energéticas adaptadas a cada comunidad."
+      role: "Desarrollador de la pagina web",
+      bio: "Estudiante de ingenieria informatica."
     },
     {
       name: "Edgardo Rodrigo Carrillo Alarcon",
-      role: "Ingeniero Ambiental",
-      bio: "Encargado de evaluar el impacto ambiental de nuestros proyectos y promover prácticas sostenibles."
+      role: "Analista financiero",
+      bio: "Estudiante de economia."
     },
     {
-      name: "Flor Paloma Valderrama Quispe",
-      role: "Relaciones Comunitarias",
-      bio: "Facilita la comunicación con las comunidades y organiza talleres de capacitación."
+      name: "Jesús Aaron Condo Morales",
+      role: "Diseñador del prototipo",
+      bio: "Estudiante de ingenieria de sistemas."
     },
     {
       name: "Maria Elena Condori Huaman",
       role: "Desarrollo Sostenible",
-      bio: "Desarrolla proyectos complementarios que generen oportunidades económicas para las comunidades."
+      bio: "Estudiante de derecho."
     }
   ];
 
