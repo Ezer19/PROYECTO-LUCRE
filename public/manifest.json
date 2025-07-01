@@ -1,0 +1,16 @@
+{
+    "name": "Luces del Ande",
+    "short_name": "Lucre",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0056b3",
+    "theme_color": "#0056b3",
+    "description": "Circuito turístico nocturno sostenible en la laguna de Huacarpay",
+    "icons": [
+      {
+        "src": "favicon.svg",
+        "sizes": "48x48 72x72 96x96 128x128 256x256",
+        "type": "image/svg+xml"
+      }
+    ]
+  }
